@@ -76,6 +76,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice3.Task5", "Practice3\Practice3.Task5\Practice3.Task5.csproj", "{00BFDE5D-AD5F-4883-ACAF-D46869E6010D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -206,6 +208,10 @@ Global
 		{56D1DD02-FDE1-4B91-9127-224ECDB4173B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56D1DD02-FDE1-4B91-9127-224ECDB4173B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56D1DD02-FDE1-4B91-9127-224ECDB4173B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BFDE5D-AD5F-4883-ACAF-D46869E6010D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BFDE5D-AD5F-4883-ACAF-D46869E6010D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BFDE5D-AD5F-4883-ACAF-D46869E6010D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BFDE5D-AD5F-4883-ACAF-D46869E6010D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -242,6 +248,7 @@ Global
 		{AE6CEFFC-DA2B-4158-B7B8-699E7011F1B1} = {15AF353E-FABE-4434-9963-E87E53C0F249}
 		{48B5652A-AC41-4B93-A755-43A7C7C3E66A} = {15AF353E-FABE-4434-9963-E87E53C0F249}
 		{56D1DD02-FDE1-4B91-9127-224ECDB4173B} = {15AF353E-FABE-4434-9963-E87E53C0F249}
+		{00BFDE5D-AD5F-4883-ACAF-D46869E6010D} = {15AF353E-FABE-4434-9963-E87E53C0F249}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BE94FEF1-98F7-4E06-AE72-9C1E2FA32D21}

@@ -14,7 +14,7 @@ namespace Practice3.Task4
             _avtor = "Неизвестный автор";
             _nameBook = "Неизвечтное название";
         }
-        public Book(string avtor, string nameBook)
+        public Book(string nameBook, string avtor)
         { 
             _avtor = avtor;
             _nameBook = nameBook;
