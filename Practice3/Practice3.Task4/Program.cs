@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using Practice3.Task4;
+
+Book book = new Book();
+Book book1 = new Book("Роулинг", "Гарри Поттер");
+
+book.Print();
+book1.Print();
